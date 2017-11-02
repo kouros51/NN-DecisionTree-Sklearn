@@ -20,3 +20,6 @@ Some results running the script for 600 iteration using one hidden layer:
 | 8  |   10    |   0.5    |     0.4     |    0.45    |         1.77       | 
 | 9  |   5     |   0.65   |     0.15    |    0.43    |         4.06       | 
 | 10 |   5     |   0.67   |     0.2     |    0.47    |         5.04       | 
+
+
+[tree.pdf] (tree.pdf)
