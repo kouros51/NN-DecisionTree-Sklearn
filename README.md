@@ -8,7 +8,7 @@ This project is a personnel experimentation that take a the data-set zoo to try 
 #### Results:
 Some results running the script for 600 iteration using one hidden layer:
 
-| Id | Neurone | Momentom |Learning rate| Error rate | mean-squared error |
+| Id | Neurone | Momentum |Learning rate| Error rate | mean-squared error |
 |:--:|:-------:|:--------:|:-----------:|:----------:|:------------------:|
 | 1  |   20    |   0.6    |     0.15    |    0.23    |         1.88       | 
 | 2  |   20    |   0.1    |     0.2     |    0.25    |         1.96       | 
