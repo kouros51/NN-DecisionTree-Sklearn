@@ -6,6 +6,7 @@ This project is a personnel experimentation that take a the data-set zoo to try 
 * Sklearn version: 0.18
 
 #### Results:
+##### For the Neural Network
 Some results running the script for 600 iteration using one hidden layer:
 
 | Id | Neurone | Momentum |Learning rate| Error rate | mean-squared error |
@@ -21,5 +22,5 @@ Some results running the script for 600 iteration using one hidden layer:
 | 9  |   5     |   0.65   |     0.15    |    0.43    |         4.06       | 
 | 10 |   5     |   0.67   |     0.2     |    0.47    |         5.04       | 
 
-
-[tree.pdf] (tree.pdf)
+##### For the Decision Tree
+You will find the results of the decision tree following this link [Decision Tree Results](https://github.com/kouros51/NN-DecisionTree-Sklearn/blob/master/tree.pdf)
